@@ -3,27 +3,6 @@
 ## Descrição
 Este projeto implementa um sistema de gerenciamento para armazenar e manipular dados de alunos da turma de Linguagem de Programação II. O sistema permite registrar informações como matrícula, nome, curso e notas de provas, além de realizar diversas operações de consulta e manipulação desses dados.
 
-## Estrutura do Projeto
-
-O projeto está organizado da seguinte forma:
-```
-GerenciamentoAlunos/
-├── .idea/
-├── src/
-│   ├── aplicacao/
-│   ├── gerenciamento/
-│   └── main/
-│       └── java/
-│           ├── aplicacao/
-│           ├── com/
-│           ├── gerenciamento/
-│           ├── modelo/
-│           │   └── Prova.java
-│           └── resources/
-├── modelo/
-└── test/
-```
-
 ## Funcionalidades
 
 - **Inclusão de Alunos**: Adicionar alunos à turma até o limite máximo definido na criação da turma
